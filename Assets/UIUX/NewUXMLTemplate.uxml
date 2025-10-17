@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIStyle/TowerHeaders.uss?fileID=7433441132597879392&amp;guid=1bb573ca58a14f648b6080cbeded7b34&amp;type=3#TowerHeaders" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:Label text="Label" name="Storage" class="header" style="background-color: rgb(153, 193, 207); -unity-text-align: middle-center; height: 54px; width: 150px;" />
+    </ui:VisualElement>
+</ui:UXML>

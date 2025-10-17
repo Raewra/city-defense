@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIStyle/MapHeaders.uss?fileID=7433441132597879392&amp;guid=9de7eb2718f6bd349a540fec36b4ff23&amp;type=3#MapHeaders" />
+    <Style src="project://database/Assets/UIStyle/TowerHeaders.uss?fileID=7433441132597879392&amp;guid=1bb573ca58a14f648b6080cbeded7b34&amp;type=3#TowerHeaders" />
+    <ui:VisualElement class="MapHeader" style="flex-grow: 1; background-color: rgb(166, 195, 193);">
+        <ui:Label name="CastleName" style="border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; font-size: 18px; -unity-text-align: upper-center; -unity-text-outline-width: 0; text-shadow: 0 0 0 rgba(0, 0, 0, 0); height: 43px;" />
+    </ui:VisualElement>
+</ui:UXML>
